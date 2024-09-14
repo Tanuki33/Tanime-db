@@ -2,7 +2,7 @@
 Offline Anime Database, with Synopsis, characters and voice actors. data provided from MAL.
 This is the First Version, I'm not sure if this is accurate or not, I just checked a few and I think they look good, in the end my purpose in making this is just for personal use.
 if you use this, no credit is required but I appreciate it if you include my name.
-Last Update : `15/05/2024`
+Last Update : `15/09/2024`
 
 | File Name | Description |
 | ------ | ------ |
